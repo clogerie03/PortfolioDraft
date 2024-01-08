@@ -1,0 +1,24 @@
+header {
+    background-image: linear-gradient(#24252A, black);
+}
+
+nav {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+ul {
+    display: flex;
+    list-style-type: none;
+    padding: 0; 
+}
+
+li {
+    margin: 10px;
+}
+
+a {
+    text-decoration: none;
+    color: white;
+}
